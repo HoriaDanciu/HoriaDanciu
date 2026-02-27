@@ -4,7 +4,7 @@ Born in Romania 🇷🇴 · Raised in Spain 🇪🇸 · Graduated from UC Berkel
 
 I'm a recent graduate from the UC Berkeley Haas School of Business (B.S. Business Administration) and the College of Computing, Data Science & Society (B.A. Data Science with Economics concentration). My journey gave me something no classroom could: a deep curiosity about how people, markets, and data behave differently depending on where you are—and what patterns hold true no matter what.
 
-⭐ I'm actively seeking opporuntities in data science, product management, and strategy where I can uncover hidden patterns and drive data-backed decisions. 
+⭐ I'm actively seeking opporuntities in data science, product management, business strategy, and finance where I can uncover hidden patterns and drive data-backed decisions. 
 
 
 
